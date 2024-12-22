@@ -1,0 +1,27 @@
+.container {
+    border: 1px solid #000;
+    width : 500px;
+
+    padding: 20px;
+}
+
+span {
+    height: auto;
+    height: 20px;;
+}
+
+.image-upload {
+    margin-top: 30px;
+}
+
+.edit-image {
+    margin-top: 20px;
+}
+
+.download-image {
+    margin-top:20px;
+}
+
+.canvas {
+    margin-top:20px;
+}
